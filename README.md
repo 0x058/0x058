@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Reverse Engineering, Kernel Development, Anti-Cheat Bypasses**
 
-- 👨‍💻 Cracking the software since **2010**
+- 👨‍💻 Cracking softwares since **2010**
 
 - ⚡ Fun fact **I think I am funny**
 
